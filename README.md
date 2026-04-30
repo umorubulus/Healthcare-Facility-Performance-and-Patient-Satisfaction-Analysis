@@ -191,7 +191,7 @@ Limitations:
 
 |Global Trend in Healthcare Quality (HAQ Index) Over Time | Correlation Between Healthcare Quality, Expenditure, and Life Expectancy |
 |------------------|------------------|
-| ![trends](image/Healthcare_uality_over_time.png) | ![correlation](health_correlation.png) |
+| ![trends](image/Healthcare_Quality_over_time.png) | ![correlation](health_correlation.png) |
 
 ---
 
