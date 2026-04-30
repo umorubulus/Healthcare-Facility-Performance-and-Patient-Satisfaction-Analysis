@@ -185,23 +185,14 @@ Limitations:
 
 | Top 10 Most Efficient Healthcare Systems by Quality-to-Spending Ratio | Bottom 10 Healthcare Systems by Efficiency (High Spending, Lower Outcomes) |
 |------------------|------------------|
-| ![Top 10 Eff](image/Top10_Eff_Health_care.png) | ![Bottom10_less_eff](image/Top10_less_Eff_Health_care.png) |
+| ![Top 10 Eff](image/Top10_Eff_Health_care.png) | ![Bottom10_less_eff](image/Top10_Less_Eff_Health_care.png) |
 
 ---
 
-### 💻 Programming Languages: Current vs Future  
-
-| Current Languages | Desired Languages |
+|Global Trend in Healthcare Quality (HAQ Index) Over Time | Correlation Between Healthcare Quality, Expenditure, and Life Expectancy |
 |------------------|------------------|
-| ![Languages Worked With](program_1.png) | ![Languages Want To Work With](program_2.png) |
+| ![trends](image/Healthcare_uality_over_time.png) | ![correlation](health_correlation.png) |
 
----
-
-### 🌐 Web Frameworks: Current vs Future  
-
-| Current Frameworks | Desired Frameworks |
-|-------------------|-------------------|
-| ![Web Framework Worked With](webframe_1.png) | ![Web Framework Want To Work With](webframe_2.png) |
 ---
 
 ## 📌 Project Summary
