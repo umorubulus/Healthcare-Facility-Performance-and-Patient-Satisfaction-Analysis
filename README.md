@@ -185,7 +185,7 @@ Limitations:
 
 | Top 10 Most Efficient Healthcare Systems by Quality-to-Spending Ratio | Bottom 10 Healthcare Systems by Efficiency (High Spending, Lower Outcomes) |
 |------------------|------------------|
-| ![Top 10 Eff](Top10_Eff_Health_care.png) | ![Bottom10_less_eff](Top10_less_Eff_Health_care.png) |
+| ![Top 10 Eff](image/Top10_Eff_Health_care.png) | ![Bottom10_less_eff](image/Top10_less_Eff_Health_care.png) |
 
 ---
 
