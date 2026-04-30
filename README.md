@@ -176,19 +176,16 @@ Limitations:
 ## 📊 Dashboard Preview
 
 
-### 🗄️ Databases: Current vs Future Preferences  
-
 | Relationship Between Healthcare Quality and Life Expectancy |Impact of Healthcare Expenditure on System Quality (HAQ Index) |
 |------------------|------------------|
 | ![HQA/LE](image/HC_vs_LE.png) | ![HE/HQ](image/HE_vs_HQ.png) |
 
 ---
 
-### ☁️ Platforms: Current vs Future Preferences  
 
-| Current Platforms | Desired Platforms |
+| Top 10 Most Efficient Healthcare Systems by Quality-to-Spending Ratio | Bottom 10 Healthcare Systems by Efficiency (High Spending, Lower Outcomes) |
 |------------------|------------------|
-| ![Platforms Worked With](platform_1.png) | ![Platforms Want To Work With](platform_2.png) |
+| ![Top 10 Eff](Top10_Eff_Health_care.png) | ![Bottom10_less_eff](Top10_less_Eff_Health_care.png) |
 
 ---
 
