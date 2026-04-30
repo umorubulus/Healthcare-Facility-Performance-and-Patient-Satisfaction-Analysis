@@ -175,12 +175,36 @@ Limitations:
 
 ## 📊 Dashboard Preview
 
-(Add your screenshots in /images folder)
 
-![Dashboard](images/dashboard.png)
-![Scatter](images/scatter.png)
-![Efficiency](images/efficiency.png)
+### 🗄️ Databases: Current vs Future Preferences  
 
+| Relationship Between Healthcare Quality and Life Expectancy |Impact of Healthcare Expenditure on System Quality (HAQ Index) |
+|------------------|------------------|
+| ![HQA/LE](image/HC_vs_LE.png) | ![HE/HQ](image/HE_vs_HQ.png) |
+
+---
+
+### ☁️ Platforms: Current vs Future Preferences  
+
+| Current Platforms | Desired Platforms |
+|------------------|------------------|
+| ![Platforms Worked With](platform_1.png) | ![Platforms Want To Work With](platform_2.png) |
+
+---
+
+### 💻 Programming Languages: Current vs Future  
+
+| Current Languages | Desired Languages |
+|------------------|------------------|
+| ![Languages Worked With](program_1.png) | ![Languages Want To Work With](program_2.png) |
+
+---
+
+### 🌐 Web Frameworks: Current vs Future  
+
+| Current Frameworks | Desired Frameworks |
+|-------------------|-------------------|
+| ![Web Framework Worked With](webframe_1.png) | ![Web Framework Want To Work With](webframe_2.png) |
 ---
 
 ## 📌 Project Summary
