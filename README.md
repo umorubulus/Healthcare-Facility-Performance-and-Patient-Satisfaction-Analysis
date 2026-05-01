@@ -8,24 +8,7 @@ An end-to-end healthcare analytics project integrating multiple global datasets 
 
 ---
 
-## 📌 Table of Contents
-
-1. Business Problem  
-2. Dataset Overview  
-3. Data Model  
-4. Dashboard Pages  
-5. Key Metrics & Feature Engineering  
-6. Key Findings  
-7. Recommendations  
-8. Methodology Notes  
-9. Tech Stack  
-10. How to Reproduce  
-11. Dashboard Preview  
-12. Contact  
-
----
-
-## 🧠 Business Problem
+### 🧠 Business Problem
 
 Healthcare systems globally face a critical challenge:
 
@@ -43,7 +26,7 @@ This project analyzes global healthcare performance using:
 
 ---
 
-## 📂 Dataset Overview
+### 📂 Dataset Overview
 
 Sources: Public datasets (Our World in Data, IHME)
 
@@ -61,7 +44,7 @@ Time Range: 2002–2016 (aligned across datasets)
 
 ---
 
-## 🏗️ Data Model
+### 🏗️ Data Model
 
 Healthcare Dataset
 
@@ -79,28 +62,7 @@ This measures how efficiently healthcare spending translates into outcomes.
 
 ---
 
-## 📊 Dashboard Pages
-
-Page 1: Executive Overview  
-- KPI Cards (HAQ, Life Expectancy, Expenditure, Efficiency)  
-- Scatter plots (Quality vs Outcome, Spending vs Quality)  
-- Trend over time  
-
-Page 2: Country Performance  
-- Top performing countries  
-- Comparative analysis  
-
-Page 3: Efficiency Analysis  
-- Top efficient systems  
-- Least efficient systems  
-
-Page 4: Trend Analysis  
-- Healthcare quality over time  
-- Life expectancy trends  
-
----
-
-## 🧮 Key Metrics & Feature Engineering
+### 🧮 Key Metrics & Feature Engineering
 
 Efficiency Score:
 HAQ_Index / Health_Expenditure
@@ -110,7 +72,7 @@ Measures how effectively healthcare spending produces quality outcomes.
 
 ---
 
-## 🔍 Key Findings
+### 🔍 Key Findings
 
 1. Healthcare quality strongly correlates with life expectancy  
 Countries with higher HAQ scores consistently have higher life expectancy  
@@ -127,7 +89,7 @@ Healthcare quality has steadily increased over time
 
 ---
 
-## 💡 Recommendations
+### 💡 Recommendations
 
 - Focus on efficiency, not just spending  
 - Benchmark high-performing countries  
@@ -136,7 +98,7 @@ Healthcare quality has steadily increased over time
 
 ---
 
-## 🧾 Methodology Notes
+### 🧾 Methodology Notes
 
 Data Integration:
 - Merged datasets on Country and Year  
@@ -154,7 +116,7 @@ Limitations:
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - Python (pandas, matplotlib, seaborn)  
 - Power BI (dashboard)  
@@ -163,7 +125,7 @@ Limitations:
 
 ---
 
-## 🚀 How to Reproduce
+### 🚀 How to Reproduce
 
 1. Clone the repository  
 2. Open healthcare_final.csv  
